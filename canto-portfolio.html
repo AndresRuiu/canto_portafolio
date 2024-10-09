@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+    <title>Canto Translation Services</title>
+</head>
+<body>
+    <header>
+        <nav class="container">
+            <div class="logo">
+                <img src="/img/canto_logo.png" alt="Canto Logo">
+            </div>
+            <ul class="nav-links">
+                <li><a href="#about">About Us</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="landing">
+        <div class="container landing-content">
+            <div class="landing-text">
+                <h1>Canto Translation Services</h1>
+                <p>Bridging languages, connecting worlds. Professional translations that resonate across cultures</p>
+            </div>
+            <div class="landing-image">
+                <img src="/img/canto_bg.jpg" alt="Translation Services">
+            </div>
+        </div>
+        <div class="wave"></div>
+    </section>
+
+    <section id="projects" class="container">
+        <h2>Our Projects</h2>
+        <div id="project-grid" class="project-grid">
+        </div>
+    </section>
+
+    <section id="team">
+        <h2>Our Team</h2>
+        <div class="team-grid" id="team-grid"></div>
+    </section>
+
+    <div id="modal" class="modal">
+        <div class="modal-content">
+            <span class="close" onclick="closeModal()">&times;</span>
+            <h2 id="modal-title"></h2>
+            <div id="file-container"></div>
+            <div id="modal-body"></div>
+        </div>
+    </div>
+</body>
+</html>
