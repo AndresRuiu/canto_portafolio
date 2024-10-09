@@ -1,75 +1,75 @@
 {
   "projects": [
-    {
-      "id": "labanca-doc",
-      "type": "pdf",
-      "title": "LaBanca Document Translation",
-      "description": "Translation of a complex legal document from Spanish to English",
-      "shortDescription": "Legal document translation",
-      "image": "/path/to/img/deeds_of_a_house2.jpg",
-      "file": "/path/to/LaBanca_Canto.pdf",
-      "details": "This project involved translating a complex legal document from Spanish to English. Our team of expert legal translators ensured accuracy and maintained the document's legal integrity throughout the translation process."
-    },
-    {
-      "id": "bill-doc",
-      "type": "pdf",
-      "title": "Bill of Sale Translation",
-      "description": "Translation of a complex legal document from Spanish to English",
-      "shortDescription": "Bill of sale translation",
-      "image": "/path/to/img/bill_of_sale2.jpg",
-      "file": "/path/to/bill_of_sale.pdf",
-      "details": "This project involved translating a complex legal document from Spanish to English. Our team of expert legal translators ensured accuracy and maintained the document's legal integrity throughout the translation process."
-    },
-    {
-      "id": "deeds-doc",
-      "type": "pdf",
-      "title": "Deeds of a House Translation",
-      "description": "Translation of a complex legal document from Spanish to English",
-      "shortDescription": "Legal document translation",
-      "image": "/path/to/img/deeds_of_a_house1.jpg",
-      "file": "/path/to/Deeds_of_a_house.pdf",
-      "details": "This project involved translating a complex legal document from Spanish to English. Our team of expert legal translators ensured accuracy and maintained the document's legal integrity throughout the translation process."
-    },
-    {
-      "id": "power-doc",
-      "type": "pdf",
-      "title": "Power of Attorney Translation",
-      "description": "Translation of a complex legal document from Spanish to English",
-      "shortDescription": "Legal document translation",
-      "image": "/path/to/img/Power_of_Attorney.jpg",
-      "file": "/path/to/Power_of_Attorney.pdf",
-      "details": "This project involved translating a complex legal document from Spanish to English. Our team of expert legal translators ensured accuracy and maintained the document's legal integrity throughout the translation process."
-    },
-    {
-      "id": "laswill-doc",
-      "type": "pdf",
-      "title": "Last Will and Testament Translation",
-      "description": "Translation of a complex legal document from Spanish to English",
-      "shortDescription": "Legal document translation",
-      "image": "/path/to/img/Last_Will_and_Testament_of_Alistair_Bartholomew_Croft.jpg",
-      "file": "/path/to/Last_Will_and_Testament_of_Alistair_Bartholomew_Croft.pdf",
-      "details": "This project involved translating a complex legal document from Spanish to English. Our team of expert legal translators ensured accuracy and maintained the document's legal integrity throughout the translation process."
-    },
-    {
-      "id": "corporate-video",
-      "type": "mp4",
-      "title": "Corporate Training Video",
-      "description": "Voice-over translation for a series of corporate training videos",
-      "shortDescription": "Corporate training video",
-      "image": "/path/to/img/inocecia_robada1.jpg",
-      "file": "/path/to/video1.mp4",
-      "details": "We provided voice-over translation for a series of corporate training videos, adapting the content for an international audience while maintaining the original message and tone. This project showcases our ability to handle multimedia content effectively."
-    },
-    {
-      "id": "nature-doc",
-      "type": "mp4",
-      "title": "Nature Documentary Subtitling",
-      "description": "Creation of subtitles for a nature documentary",
-      "shortDescription": "Documentary subtitles",
-      "image": "/path/to/img/inocecia_robada2.jpg",
-      "file": "/path/to/video2.mp4",
-      "details": "Our team created accurate and culturally appropriate subtitles for a nature documentary, enabling it to reach a global audience without losing its educational value. This project demonstrates our expertise in subtitling and localization."
-    }
+      {
+        "id": "labanca-doc",
+        "type": "pdf",
+        "title": "LaBanca Document Translation",
+        "description": "Traducción del documento 'LaBanca' del español al inglés",
+        "shortDescription": "Traducción de documento 'LaBanca Canto'",
+        "image": "/path/to/img/deeds_of_a_house2.jpg",
+        "file": "/path/to/LaBanca_Canto.pdf",
+        "details": "Traducción detallada del documento 'LaBanca Canto' para garantizar la precisión y la integridad del documento original en español al inglés."
+      },
+      {
+        "id": "bill-doc",
+        "type": "pdf",
+        "title": "Bill of Sale Translation",
+        "description": "Traducción del documento 'Bill of Sale' del español al inglés",
+        "shortDescription": "Traducción de documento 'Bill of Sale'",
+        "image": "/path/to/img/bill_of_sale2.jpg",
+        "file": "/path/to/bill_of_sale.pdf",
+        "details": "Traducción detallada del documento 'Bill of Sale' para garantizar la precisión y la integridad del documento original en español al inglés."
+      },
+      {
+        "id": "deeds-doc",
+        "type": "pdf",
+        "title": "Deeds of a House Translation",
+        "description": "Traducción del documento 'Deeds of a House' del español al inglés",
+        "shortDescription": "Traducción de documento 'Deeds of a House'",
+        "image": "/path/to/img/deeds_of_a_house1.jpg",
+        "file": "/path/to/Deeds_of_a_house.pdf",
+        "details": "Traducción detallada del documento 'Deeds of a House' para garantizar la precisión y la integridad del documento original en español al inglés."
+      },
+      {
+        "id": "power-doc",
+        "type": "pdf",
+        "title": "Power of Attorney Translation",
+        "description": "Traducción del documento 'Power of Attorney' del español al inglés",
+        "shortDescription": "Traducción de documento 'Power of Attorney'",
+        "image": "/path/to/img/Power_of_Attorney.jpg",
+        "file": "/path/to/Power_of_Attorney.pdf",
+        "details": "Traducción detallada del documento 'Power of Attorney' para garantizar la precisión y la integridad del documento original en español al inglés."
+      },
+      {
+        "id": "laswill-doc",
+        "type": "pdf",
+        "title": "Last Will and Testament Translation",
+        "description": "Traducción del documento 'Last Will and Testament of Alistair Bartholomew Croft' del español al inglés",
+        "shortDescription": "Traducción de documento 'Last Will and Testament'",
+        "image": "/path/to/img/Last_Will_and_Testament_of_Alistair_Bartholomew_Croft.jpg",
+        "file": "/path/to/Last_Will_and_Testament_of_Alistair_Bartholomew_Croft.pdf",
+        "details": "Traducción detallada del documento 'Last Will and Testament of Alistair Bartholomew Croft' para garantizar la precisión y la integridad del documento original en español al inglés."
+      },
+      {
+        "id": "corporate-video",
+        "type": "mp4",
+        "title": "Inocencia robada 2",
+        "description": "Subtitulaje del video 'Inocencia robada 2'",
+        "shortDescription": "Subtitulaje del video",
+        "image": "/path/to/img/inocecia_robada1.jpg",
+        "file": "/path/to/video1.mp4",
+        "details": "Creación de subtítulos precisos para el video 'Inocencia robada 2'."
+      },
+      {
+        "id": "nature-doc",
+        "type": "mp4",
+        "title": "Inocencia robada 2",
+        "description": "Subtitulaje del video 'Inocencia robada 2'",
+        "shortDescription": "Subtitulaje del video",
+        "image": "/path/to/img/inocecia_robada2.jpg",
+        "file": "/path/to/video2.mp4",
+        "details": "Creación de subtítulos precisos para el video 'Inocencia robada 2'."
+      }
   ],
   "team": [
     {
