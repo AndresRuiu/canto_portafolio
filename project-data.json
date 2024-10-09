@@ -73,27 +73,27 @@
   ],
   "team": [
     {
-      "name": "Emma Rodriguez",
+      "name": "Alvaro Martin Perez",
       "profession": "Translator",
       "image": "/img/team/alvaro.jpg"
     },
     {
-      "name": "David Chen",
+      "name": "Emilse Aldeco",
       "profession": "Translator",
       "image": "/img/team/emi.jpg"
     },
     {
-      "name": "Sophie Dupont",
+      "name": "Candela Miño",
       "profession": "Translator",
       "image": "/img/team/madre.jpg"
     },
     {
-      "name": "Michael Johnson",
+      "name": "Martina Avila",
       "profession": "Translator",
       "image": "/img/team/marti.jpg"
     },
     {
-      "name": "Olivia Kim",
+      "name": "Andrés Ruiu",
       "profession": "Developer",
       "image": "/img/team/andres.jpg"
     }
